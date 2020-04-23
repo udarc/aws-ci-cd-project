@@ -19,7 +19,3 @@ artifacts:
     - "**/*"
   discard-paths: no
   base-directory: build
-
-
-Git remote add origin https://github.com/bwitkowski/cloud-for-developers.git
-Git push -u origin master
